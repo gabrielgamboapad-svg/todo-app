@@ -135,3 +135,14 @@ ul li span:hover {
     font-size: 14px;
     background: #002765;
 }
+
+/* Autor */
+.author {
+    margin-top: 30px;
+    padding-top: 15px;
+    border-top: 1px solid #edeef0;
+    color: #555555;
+    font-size: 14px;
+    font-weight: normal;
+    text-align: center;
+}
